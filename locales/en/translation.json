@@ -94,9 +94,9 @@
   },
   "misc": {
     "aboutUs": "About Us",
-    "alphaDownload": "Download the Alpha!!",
-    "demoDownload": "¡¡Download Demo!!",
-    "comingSoon": "Coming Soon!!",
+    "alphaDownload": "Download the Alpha!",
+    "demoDownload": "Download Demo!",
+    "comingSoon": "Coming Soon!",
     "contactUs": "Contact Us",
     "copy": "Copyright © Ashara Studios 2019",
     "email": "E-Mail",
@@ -105,7 +105,9 @@
     "policies": "Privacy Policies",
     "send": "Send",
     "subject": "Subject",
-    "units": "Units"
+    "units": "Units",
+    "playHere": "Play Here!",
+    "near": "DEMO on the NEAR Testnet"
   },
   "unit": {
     "clients": "Our Clients",
@@ -167,7 +169,9 @@
       "portfolio": {
         "exorcist": "Exorcist es un juego para móvil, donde el jugador toma el rol de un exorcista, el cual lucha contra criaturas del inframundo para exorcizarlas y poder grabarlas en su libro de sombras. Por medio de una mecánica de dibujar glifos, patrones que se hacen al conectar varios puntos, es posible atacar a las criaturas que el exorcista encuentra",
         "tom": "Action-RPG game in which Toer must travel through the lands of Asknuk. Above these lands float a series of structures called towers that host Mythic beings responsible for the plague that scourges humanity.",
-        "tbo": "En Un Océano Brillante Eres Mowa, un camarón mantis que se embarca en la aventura de buscar a su familia perdida luego de que un cataclismo mundial cambió para siempre la faz de la tierra inundándola con el océano, que ahora es un lugar oscuro, inestable, y más peligroso que nunca."
+        "tbo": "In Un Océano Brillante, you are Mowa, a mantis shrimp embarking on an adventure to search for your lost family after a global cataclysm forever changed the face of the Earth, flooding it with the ocean, which is now a dark, unstable, and more dangerous place than ever.",
+        "kai": "In a world shrouded in darkness, the abandoned asylum holds secrets that defy your senses. Uncover the mysteries of this accursed place, but beware, for not everything is as it seems.",
+        "nft": "New Festival Town is a game that combines a cozy life simulation with blockchain technology. Players take care of their characters, decorate their homes, interact with others, and collect NFTs to influence its development."
       },
       "publishers": {
         "superhippo": "Leader in the freemium industry of videogames. Superhippo has worked to establish itself in the market as a successful publisher, with more than 40 titles available in different distribution channels."

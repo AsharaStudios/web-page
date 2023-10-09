@@ -89,9 +89,9 @@
   },
   "misc": {
     "aboutUs": "Nosotros",
-    "alphaDownload": "¡¡Descarga el Alfa!!",
-    "demoDownload": "¡¡Descarga la Demo!!",
-    "comingSoon": "¡¡Próximamente!!",
+    "alphaDownload": "¡Descarga el Alfa!",
+    "demoDownload": "¡Descarga la Demo!",
+    "comingSoon": "¡Próximamente!",
     "contactUs": "Contáctenos",
     "copy": "Copyright © Ashara Studios 2019",
     "email": "Correo Electrónico",
@@ -100,7 +100,9 @@
     "policies": "Políticas de Privacidad",
     "send": "Enviar",
     "subject": "Asunto",
-    "units": "Unidades"
+    "units": "Unidades",
+    "playHere": "¡Juega Aquí!",
+    "near": "DEMO en la testnet de NEAR"
   },
   "unit": {
     "clients": "Nuestros Clientes",
@@ -164,8 +166,10 @@
       },
       "portfolio": {
         "exorcist": "Exorcist es un juego para móvil, donde el jugador toma el rol de un exorcista, el cual lucha contra criaturas del inframundo para exorcizarlas y poder grabarlas en su libro de sombras. Por medio de una mecánica de dibujar glifos, patrones que se hacen al conectar varios puntos, es posible atacar a las criaturas que el exorcista encuentra",
-        "tom": "Action-RPG game in which Toer must travel through the lands of Asknuk. Above these lands float a series of structures called towers that host Mythic beings responsible for the plague that scourges humanity.",
-        "tbo": "En Un Océano Brillante Eres Mowa, un camarón mantis que se embarca en la aventura de buscar a su familia perdida luego de que un cataclismo mundial cambió para siempre la faz de la tierra inundándola con el océano, que ahora es un lugar oscuro, inestable, y más peligroso que nunca."
+        "tom": "Juego de rol de acción en el que Toer debe viajar a través de las tierras de Asknuk. Sobre estas tierras flotan una serie de estructuras llamadas torres que albergan seres míticos responsables de la plaga que azota a la humanidad.",
+        "tbo": "En Un Océano Brillante Eres Mowa, un camarón mantis que se embarca en la aventura de buscar a su familia perdida luego de que un cataclismo mundial cambió para siempre la faz de la tierra inundándola con el océano, que ahora es un lugar oscuro, inestable, y más peligroso que nunca.",
+        "kai": "En un mundo envuelto en la oscuridad, el manicomio abandonado guarda secretos que desafían tus sentidos. Descubre los secretos de este lugar maldito, pero ten cuidado, porque no todo es lo que parece.",
+        "nft": "New Festival Town es un juego que combina cozy life sim que usa tecnología blockchain. Los jugadores cuidan a sus personajes, decoran sus hogares, interactúan con otros y coleccionan NFTs para influir en su desarrollo."
       },
       "publishers": {
         "superhippo": "Líder en la industria freemium de los videojuegos. Superhippo ha trabajado para establecerse en el mercado como un publicador exitoso, con más de 40 títulos disponibles en diferentes canales de distribución."
